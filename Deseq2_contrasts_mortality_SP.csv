@@ -1,0 +1,3 @@
+"","baseMean","log2FoldChange","lfcSE","padj","Phylum","Class","Order","Family","Genus","Species","change"
+"8735f92a7f18db944bc862777fbd3222",14.6389677376172,22.0763350791165,2.9608451752182,1.0302998210163e-10,"Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Burkholderiaceae",NA,NA,"Increase"
+"68d28f661212a337606c3e256e1c8c38",8.59217956666181,21.3879953591792,2.96157319957207,2.96458411920799e-10,"Acidobacteria","Acidobacteriia","Acidobacteriales","uncultured",NA,NA,"Increase"

@@ -1,0 +1,101 @@
+X.SampleID;Date;Individual_ID;Source;Species;Sex;DevStage;Phase;LakeOrigin;Cage_ID;is.neg;Lake_transfer;LakeOrigin2;Lake_transfer2;Raref;Status;Total_lenght;Final_lake;Transfer
+338;D0;R1;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;R1;FALSE;INI;LL;INI;High;INI;49;LL;NOT TR
+343;D0;R6;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;R6;FALSE;INI;BL;INI;High;INI;41;BL;NOT TR
+346;D0;R9;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;R9;FALSE;INI;BL;INI;High;INI;36;BL;NOT TR
+349;D0;R12;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;R12;FALSE;INI;BL;INI;High;INI;44;BL;NOT TR
+351;D0;R14;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;SP;R14;FALSE;INI;SP;INI;High;INI;32;SP;NOT TR
+352;D0;R15;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;R15;FALSE;INI;BL;INI;High;INI;36;BL;NOT TR
+354;D0;R17;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;SP;R17;FALSE;INI;SP;INI;High;INI;30;SP;NOT TR
+355;D0;R18;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;R18;FALSE;INI;BL;INI;High;INI;44;BL;NOT TR
+357;D0;R20;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;SP;R20;FALSE;INI;SP;INI;High;INI;31;SP;NOT TR
+339;D0;R2;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;SP;R2;FALSE;INI;SP;INI;High;INI;38;SP;NOT TR
+340;D0;R3;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;R3;FALSE;INI;BL;INI;High;INI;41;BL;NOT TR
+345;D0;R8;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;SP;R8;FALSE;INI;SP;INI;High;INI;30;SP;NOT TR
+348;D0;R11;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;SP;R11;FALSE;INI;SP;INI;High;INI;30;SP;NOT TR
+358;D0;R21;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;R21;FALSE;INI;BL;INI;Low;INI;41;BL;NOT TR
+344;D0;R7;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;R7;FALSE;INI;LL;INI;High;INI;51;LL;NOT TR
+363;D0;B2;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;B2;FALSE;INI;LL;INI;High;INI;54;LL;NOT TR
+394;D0;S9;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;S9;FALSE;INI;LL;INI;High;INI;52;LL;NOT TR
+341;D0;R4;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;R4;FALSE;INI;LL;INI;High;INI;54;LL;NOT TR
+347;D0;R10;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;R10;FALSE;INI;LL;INI;High;INI;51;LL;NOT TR
+350;D0;R13;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;R13;FALSE;INI;LL;INI;High;INI;50;LL;NOT TR
+353;D0;R16;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;R16;FALSE;INI;LL;INI;High;INI;41;LL;NOT TR
+366;D0;B5;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;B5;FALSE;INI;LL;INI;High;INI;48;LL;NOT TR
+369;D0;B8;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;B8;FALSE;INI;LL;INI;High;INI;59;LL;NOT TR
+372;D0;B11;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;B11;FALSE;INI;LL;INI;High;INI;36;LL;NOT TR
+375;D0;B14;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;B14;FALSE;INI;LL;INI;High;INI;56;LL;NOT TR
+388;D0;S3;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;S3;FALSE;INI;LL;INI;High;INI;58;LL;NOT TR
+391;D0;S6;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;S6;FALSE;INI;LL;INI;High;INI;42;LL;NOT TR
+397;D0;S12;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;S12;FALSE;INI;LL;INI;High;INI;47;LL;NOT TR
+356;D0;R19;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;R19;FALSE;INI;LL;INI;High;INI;56;LL;NOT TR
+376;D0;B15;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;SP;B15;FALSE;INI;SP;INI;High;INI;32;SP;NOT TR
+380;D0;B19;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;B19;FALSE;INI;BL;INI;High;INI;35;BL;NOT TR
+387;D0;S2;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;S2;FALSE;INI;BL;INI;High;INI;43;BL;NOT TR
+398;D0;S13;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;SP;S13;FALSE;INI;SP;INI;High;INI;35;SP;NOT TR
+401;D0;S16;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;SP;S16;FALSE;INI;SP;INI;High;INI;34;SP;NOT TR
+403;D0;S18;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;S18;FALSE;INI;LL;INI;High;INI;56;LL;NOT TR
+406;D0;S21;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;S21;FALSE;INI;LL;INI;High;INI;50;LL;NOT TR
+362;D0;B1;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;B1;FALSE;INI;BL;INI;High;INI;48;BL;NOT TR
+364;D0;B3;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;SP;B3;FALSE;INI;SP;INI;High;INI;37;SP;NOT TR
+365;D0;B4;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;B4;FALSE;INI;BL;INI;High;INI;42;BL;NOT TR
+368;D0;B7;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;B7;FALSE;INI;BL;INI;High;INI;49;BL;NOT TR
+371;D0;B10;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;B10;FALSE;INI;BL;INI;High;INI;32;BL;NOT TR
+373;D0;B12;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;SP;B12;FALSE;INI;SP;INI;High;INI;32;SP;NOT TR
+374;D0;B13;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;B13;FALSE;INI;BL;INI;High;INI;39;BL;NOT TR
+377;D0;B16;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;B16;FALSE;INI;BL;INI;High;INI;36;BL;NOT TR
+378;D0;B17;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;B17;FALSE;INI;LL;INI;High;INI;52;LL;NOT TR
+379;D0;B18;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;SP;B18;FALSE;INI;SP;INI;High;INI;33;SP;NOT TR
+381;D0;B20;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;B20;FALSE;INI;LL;INI;High;INI;50;LL;NOT TR
+382;D0;B21;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;SP;B21;FALSE;INI;SP;INI;High;INI;18;SP;NOT TR
+389;D0;S4;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;SP;S4;FALSE;INI;SP;INI;High;INI;34;SP;NOT TR
+390;D0;S5;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;S5;FALSE;INI;BL;INI;High;INI;46;BL;NOT TR
+392;D0;S7;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;SP;S7;FALSE;INI;SP;INI;High;INI;33;SP;NOT TR
+393;D0;S8;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;S8;FALSE;INI;BL;INI;High;INI;41;BL;NOT TR
+395;D0;S10;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;SP;S10;FALSE;INI;SP;INI;High;INI;37;SP;NOT TR
+396;D0;S11;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;S11;FALSE;INI;BL;INI;High;INI;43;BL;NOT TR
+399;D0;S14;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;S14;FALSE;INI;BL;INI;High;INI;31;BL;NOT TR
+402;D0;S17;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;S17;FALSE;INI;BL;INI;High;INI;38;BL;NOT TR
+405;D0;S20;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;S20;FALSE;INI;BL;INI;High;INI;36;BL;NOT TR
+436;D15;B2;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;B2;FALSE;BL;LL;BL;High;TR;55;BL;TR
+438;D15;B4;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;B4;FALSE;CTRL;CTRL;BL;High;CTRL;41;BL;NOT TR
+440;D15;B6;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;SP;B6;FALSE;BL;SP;BL;High;TR;35;BL;TR
+441;D15;B7;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;B7;FALSE;CTRL;CTRL;BL;High;CTRL;52;BL;NOT TR
+443;D15;B9;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;SP;B9;FALSE;BL;SP;BL;High;TR;31;BL;TR
+445;D15;B11;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;B11;FALSE;BL;LL;BL;High;TR;35;BL;TR
+447;D15;B13;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;B13;FALSE;CTRL;CTRL;BL;High;CTRL;40;BL;NOT TR
+450;D15;B17;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;B17;FALSE;BL;LL;BL;High;TR;50;BL;TR
+456;D15;S3;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;S3;FALSE;SP;LL;SP;High;TR;56;SP;TR
+458;D15;S8;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;S8;FALSE;SP;BL;SP;High;TR;42;SP;TR
+461;D15;S12;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;S12;FALSE;SP;LL;SP;High;TR;44;SP;TR
+464;D15;S17;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;S17;FALSE;SP;BL;SP;High;TR;42;SP;TR
+466;D15;S20;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;S20;FALSE;SP;BL;SP;High;TR;38;SP;TR
+473;D15;R4;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;R4;FALSE;CTRL;CTRL;LL;High;CTRL;51;LL;NOT TR
+478;D15;R10;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;R10;FALSE;CTRL;CTRL;LL;High;CTRL;51;LL;NOT TR
+479;D15;R11;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;SP;R11;FALSE;LL;SP;LL;High;TR;30;LL;TR
+483;D15;R18;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;R18;FALSE;LL;BL;LL;High;TR;36;LL;TR
+485;D15;R21;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;R21;FALSE;LL;BL;LL;High;TR;41;LL;TR
+444;D15;B10;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;B10;FALSE;CTRL;CTRL;BL;High;CTRL;41;BL;NOT TR
+446;D15;B12;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;SP;B12;FALSE;BL;SP;BL;High;TR;33;BL;TR
+454;D15;S1;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;SP;S1;FALSE;CTRL;CTRL;SP;High;CTRL;38;SP;NOT TR
+455;D15;S2;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;S2;FALSE;SP;BL;SP;High;TR;43;SP;TR
+459;D15;S10;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;SP;S10;FALSE;CTRL;CTRL;SP;High;CTRL;36;SP;NOT TR
+460;D15;S11;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;S11;FALSE;SP;BL;SP;High;TR;41;SP;TR
+462;D15;S14;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;S14;FALSE;SP;BL;SP;High;TR;34;SP;TR
+467;D15;S21;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;S21;FALSE;SP;LL;SP;High;TR;46;SP;TR
+472;D15;R2;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;SP;R2;FALSE;LL;SP;LL;High;TR;37;LL;TR
+475;D15;R6;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;R6;FALSE;LL;BL;LL;High;TR;43;LL;TR
+477;D15;R9;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;R9;FALSE;LL;BL;LL;High;TR;41;LL;TR
+480;D15;R13;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;R13;FALSE;CTRL;CTRL;LL;High;CTRL;50;LL;NOT TR
+481;D15;R15;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;R15;FALSE;LL;BL;LL;High;TR;42;LL;TR
+482;D15;R16;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;R16;FALSE;CTRL;CTRL;LL;High;CTRL;41;LL;NOT TR
+484;D15;R19;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;R19;FALSE;CTRL;CTRL;LL;High;CTRL;58;LL;NOT TR
+463;D15;S15;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;S15;FALSE;SP;LL;SP;Low;TR;47;SP;TR
+476;D15;R7;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;R7;FALSE;CTRL;CTRL;LL;Low;CTRL;50;LL;NOT TR
+435;D15;B1;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;B1;FALSE;CTRL;CTRL;BL;Low;CTRL;49;BL;NOT TR
+437;D15;B3;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;SP;B3;FALSE;BL;SP;BL;Low;TR;40;BL;TR
+439;D15;B5;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;B5;FALSE;BL;LL;BL;Low;TR;47;BL;TR
+442;D15;B8;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;B8;FALSE;BL;LL;BL;Low;TR;58;BL;TR
+448;D15;B14;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;B14;FALSE;BL;LL;BL;Low;TR;55;BL;TR
+449;D15;B16;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;B16;FALSE;CTRL;CTRL;BL;Low;CTRL;36;BL;NOT TR
+452;D15;B19;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;BL;B19;FALSE;CTRL;CTRL;BL;Low;CTRL;37;BL;NOT TR
+453;D15;B20;host-associated;Yellow-spotted;Unknown;Larva;Aquatic;LL;B20;FALSE;BL;LL;BL;Low;TR;47;BL;TR

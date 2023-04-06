@@ -1,0 +1,3 @@
+"","baseMean","log2FoldChange","lfcSE","padj","Phylum","Class","Order","Family","Genus","Species","change"
+"3b94c19ef326eea0918e1c3d244c999c",90.575301074348,-23.5336780577785,3.24638397167254,2.78381118270517e-10,"Proteobacteria","Gammaproteobacteria","Enterobacteriales","Enterobacteriaceae",NA,NA,"Decrease"
+"4cbfff144d4e7a4e0f4619ed505be070",34.2731726380526,-21.1156746715751,3.49192594993849,4.89926303396306e-07,"Proteobacteria","Gammaproteobacteria","Enterobacteriales","Enterobacteriaceae",NA,NA,"Decrease"
